@@ -10,5 +10,4 @@ This is a collection of working Jupyter notebooks with associated datasets (most
 - Decision Tree classifier with grid search and feature importance plotting (decision_tree_grid_search_feature_importances.ipynb)
 - Logistic regression and Random Forest Classifier capstone project (capstone-logistic-random-forest-classifier.ipynb)
 
-- 
   
